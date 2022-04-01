@@ -1,2 +1,4 @@
-package com.trycloud.pages;public class A {
+package com.trycloud.pages;
+
+public class A {
 }
